@@ -1,7 +1,8 @@
 ## Opa, bem vindo.  Me chamo Luis Felipe 🙂
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisfelipeandrade19&show_icons=true&theme=transparent)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipeandrade19&layout=pie)](https://github.com/luisfelipeandrade19/github-readme-stats)
   ##
  
 <div> 
