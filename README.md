@@ -15,9 +15,6 @@
   <a href="https://instagram.com/felipeandrade.19">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:luisfelipeandrade19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </p>
 
 ---
@@ -73,12 +70,12 @@
 ### GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisfelipeandrade19&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipeandrade19&layout=compact&langs_count=10&theme=dark&hide_border=true" />
+  <img height="180em" src="https://raw.githubusercontent.com/luisfelipeandrade19/luisfelipeandrade19/main/profile/stats.svg" alt="GitHub Stats" />
+  <img height="180em" src="https://raw.githubusercontent.com/luisfelipeandrade19/luisfelipeandrade19/main/profile/top-langs.svg" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luisfelipeandrade19&theme=dark&row=2&no-bg=true&column=4&margin-w=15&margin-h=15" />
+  <img src="https://raw.githubusercontent.com/luisfelipeandrade19/luisfelipeandrade19/main/profile/trophy.svg" alt="GitHub Trophies" />
 </div>
 
 ---
