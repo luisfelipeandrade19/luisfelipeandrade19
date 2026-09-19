@@ -80,12 +80,6 @@
 
 ---
 
-### Atividade Recente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=5e5e5e&height=150&section=footer" />
