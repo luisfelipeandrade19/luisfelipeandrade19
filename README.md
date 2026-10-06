@@ -57,16 +57,6 @@
 
 ---
 
-### Projetos em Destaque
-
-| Projeto | Stack | Descrição |
-|---------|-------|-----------|
-| **[DirexaPI](https://github.com/luisfelipeandrade19/DirexaPI)** | `TypeScript` `Node.js` `Prisma` `PostgreSQL` | Sistema de rastreio de onibus baseado em Check-ins |
-| **[barber-appointment-website](https://github.com/luisfelipeandrade19/barber-appointment-website)** | `TypeScript` `React` `Next.js` `Tailwind` | Sistema de agendamento para barbearia |
-| **[commercial-proposal-fj](https://github.com/luisfelipeandrade19/commercial-proposal-fj)** | `JavaScript` `Node.js` | LandingPage de proposta comercial |
-
----
-
 ### GitHub Stats
 
 <div align="center">
